@@ -1,0 +1,1 @@
+A Telegram bot that lets users upload PDFs, extracts and chunks their text with LangChain, embeds content using HuggingFace models, and stores it in Pinecone for fast semantic search. Built with Python, LangChain, and PyMuPDF.
